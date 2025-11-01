@@ -1,0 +1,5 @@
+{
+  "name": "Quote Picture Maker",
+  "description": "An AI-powered tool to create beautiful quote pictures. Upload background images and a list of quotes, and let AI suggest the best design. Customize and download your creations.",
+  "requestFramePermissions": []
+}
